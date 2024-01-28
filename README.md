@@ -1,0 +1,3 @@
+Transbot is a multiway, multilanguage translator app that can read text from images recognise sign language and can convert it to destination langugage of the choice of the user.
+This was my  btech project in which we created a webapp using python and flask. We created scripts using python and scikit learn that can read sign languge. Using pytesseract and PIL libraries we implemented a script that can extract text content from images and convert it to text of 
+destination langugae using google trans library. The translated text can then be converted to audio for which the script uses playsound and gtts(google text to speech) library.
